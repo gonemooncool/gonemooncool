@@ -1,6 +1,8 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=F7B665&center=true&vCenter=true&width=435&lines=GONEMOONCOOL"
-         alt="GONEMOONCOOL">
+    <a href="https://github.com/gonemooncool">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=F7B665&center=true&vCenter=true&width=435&lines=GONEMOONCOOL"
+            alt="GONEMOONCOOL">
+    </a>
 </p>
 
 <p align="center">
@@ -18,5 +20,7 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://www.codewars.com/users/gonemooncool/badges/small" alt="">
+    <a href="https://www.codewars.com/users/gonemooncool">
+        <img src="https://www.codewars.com/users/gonemooncool/badges/small" alt="">
+    </a>
 </p>
